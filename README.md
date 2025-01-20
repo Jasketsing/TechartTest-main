@@ -25,5 +25,8 @@
 * Использование сторонних фреймворков и CMS не допускается.
 
 ## Результат
+![1](https://github.com/user-attachments/assets/e3ab219a-5a8c-4fec-bfd8-305ae274998c)
+![2](https://github.com/user-attachments/assets/01bc1e28-2c18-4015-a01f-f16b1975f675)
+
 
 
